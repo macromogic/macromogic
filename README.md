@@ -1,16 +1,20 @@
-### Hi there 👋
+```
+                                           
+ _____                               _     
+|     |___ ___ ___ ___ _____ ___ ___|_|___ 
+| | | | .'|  _|  _| . |     | . | . | |  _|
+|_|_|_|__,|___|_| |___|_|_|_|___|_  |_|___|
+                                |___|      
+```
 
-<!--
-**macromogic/macromogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just another ordinary CS student.
 
-Here are some ideas to get you started:
+## Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=macromogic)
+
+## See me on...
+
+[>>> My blog](https://blog.macromogic.xyz)
+[>>> Bilibili](https://space.bilibili.com/51291249)
+
