@@ -16,5 +16,6 @@ Just another ordinary CS student.
 ## See me on...
 
 [>>> My blog](https://blog.macromogic.xyz)
+
 [>>> Bilibili](https://space.bilibili.com/51291249)
 
