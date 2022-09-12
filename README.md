@@ -7,7 +7,11 @@
                                 |___|      
 ```
 
-Just another ordinary CS student.
+Hi! This is Weijie Huang (pronunces _Way-Gee-eh Hwahng_), just another ordinary CS student.
+
+I am currently pursuing my Ph.D. degree at Rice University, supervised by Dr. Nathan Dautenhahn. I obtained my B.Eng. degree at Southern University of Science and Technology in 2022.
+
+I work on computer security. I sometimes compose pop music and write blogs. Now struggling on building a personal website :)
 
 ## Statistics
 
