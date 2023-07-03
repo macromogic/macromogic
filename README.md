@@ -11,7 +11,7 @@ Hi! This is Weijie Huang (pronunces _Way-Gee-eh Hwahng_), just another ordinary 
 
 I am currently pursuing my Ph.D. degree at Rice University, supervised by Dr. Nathan Dautenhahn. I obtained my B.Eng. degree at Southern University of Science and Technology in 2022.
 
-I work on computer security. I sometimes compose pop music and write blogs. Now struggling on building a personal website :)
+I work on computer security. I sometimes compose pop music and write blogs. Check out my new website! :)
 
 ## Statistics
 
@@ -19,7 +19,7 @@ I work on computer security. I sometimes compose pop music and write blogs. Now 
 
 ## See me on...
 
-[>>> My blog](https://blog.macromogic.xyz)
+[>>> My website](https://macromogic.xyz)
 
 [>>> Bilibili](https://space.bilibili.com/51291249)
 
